@@ -95,10 +95,3 @@ The UI uses a **dark-blue neon theme** with subtle animations, smooth transition
 - Visual statistics and insights on platform data.
 
 ---
-
-## 📍 Available Routes
-
-### **Auth**
-
-
-
