@@ -1,5 +1,5 @@
 import { io } from "socket.io-client";
-const socket = io("https://meetx-backend-a0kt.onrender.com", {
+const socket = io("//backendlinkpastehere", {
   withCredentials: true,
   transports: ["websocket"],
 });
