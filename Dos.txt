@@ -1,0 +1,26 @@
+Activity Model (Login , Update, etc) -- Done
+Header Menu Placement to right for Laptop  -- Done
+Fix - Post(public,private,followers accessibility) -- Done 
+Implementing Toast in Every Page -- Done
+Set the Posts as per visibility -- Done
+Account Update Facility -- Done
+Demo Id Activity Restrictions -- Done
+Apply Bluetick everywhere if verified -- Done
+Manual Set Users as Verifed or not -- Done
+Set Notifications for Admin Actions -- Done
+User's Email Notifications -- Upcoming
+Set Release Notes -- Upcoming
+
+
+
+
+
+Admin Panel - On it
+
+
+
+
+
+
+Terms and Conditions -- Upcoming
+Secret Admin Adding Page -- Upcoming
